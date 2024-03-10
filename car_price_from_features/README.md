@@ -7,7 +7,8 @@
 - время обучения.
 -----------------------------------------------------
 # Стек
-Python, Pandas, LightGBM.
+Python, Pandas, matplotlib, LightGBM.
+
 -----------------------------------------------------
 # Модели 
 LinearRegression, DecisionTreeRegressor, LightGBM.  
