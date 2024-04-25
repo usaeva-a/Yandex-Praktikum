@@ -6,7 +6,7 @@
 Для предотвращения оттока клиентов необходимо создать модель машинного обучения для предсказания ухода клиента.
   
 ## Использованные инструменты и библиотеки
-Python, pandas, sklearn, seaborn, matplotlib, phik, Pipeline, One-Hot-Encoder, StandatdScaler, GridSearchCV, LogisticRegression, CatBoostClassifier, SGDClassifier.
+Python, pandas, sklearn, seaborn, matplotlib, phik, Pipeline, One-Hot-Encoder, StandardScaler, GridSearchCV, LogisticRegression, CatBoostClassifier, SGDClassifier.
 
 ## Вывод
 В ходе данного проекта были изучены данные по клиентам оператора связи "ТелеФон".
